@@ -1,6 +1,4 @@
-import React from 'react';
-import Players from './Components/Players/Players';
-// import './App.css';
+import Players from './Components/Players';
 
 function App() {
 

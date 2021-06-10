@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import SinglePlayer from '../SinglePlayer/SinglePlayer';
-import SelectedPlayer from '../SelectedPlayer/SelectedPlayer';
-import playersDB from '../PlayersDB/playersDB.json';
-import './Players.css';
+import SinglePlayer from './SinglePlayer';
+import SelectedPlayer from './SelectedPlayer';
+import playersDB from './playersDB.json';
 
 const Players = () => {
 

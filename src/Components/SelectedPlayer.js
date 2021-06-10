@@ -1,6 +1,4 @@
-import React from 'react';
-import SelectedPlayerBox from '../SelectedPlayerBox/SelectedPlayerBox';
-import './SelectedPlayer.css'
+import SelectedPlayerBox from './SelectedPlayerBox';
 
 const SelectedPlayer = (props) => {
 

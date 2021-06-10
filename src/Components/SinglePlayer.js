@@ -1,9 +1,7 @@
-import React from 'react';
-import './SinglePlayer.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlusCircle } from '@fortawesome/free-solid-svg-icons'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button, Card } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const SinglePlayer = (props) => {
     const { player, btn } = props;
